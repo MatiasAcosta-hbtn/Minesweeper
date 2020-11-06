@@ -2,5 +2,5 @@
 
 int main (void)
 {
-	print_tablero(10,15);
+	print_chess(10,15);
 }

@@ -1,6 +1,6 @@
 #include "functions.h"
 
-void print_tablero(int rows, int columns)
+void print_chess(int rows, int columns)
 {
 	int i = 0, j = 0;
 
@@ -53,7 +53,7 @@ void print_tablero(int rows, int columns)
 	printf("\n");
 }
 
-void generate_bombs(int *chess[], rows, columns)
+void generate_bombs(int *chess[], int rows, int columns)
 {
 	
 }
